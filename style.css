@@ -1,0 +1,10 @@
+a{ 
+    text-decoration: none;
+    background-color: greenyellow;
+    padding: 10px;
+}
+header
+{
+    display: flex;
+    justify-content: space-around;
+}
